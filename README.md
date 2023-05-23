@@ -29,9 +29,11 @@ Install the required dependencies using the following command:
 pip install -r requirements.txt
 `
 Once you have installed the Todo List CLI App, you can run it by executing the following command:
+
 `
 python todo.py
 `
+
 The application will launch in your terminal, presenting you with a menu of available options. Simply follow the on-screen instructions to manage your tasks effectively.
 
 Contributions
